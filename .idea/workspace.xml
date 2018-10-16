@@ -2,12 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e2013b3-932c-4b96-a071-fdb3d5074785" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Percolation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PercolationStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PercolationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/fixtures/input6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/greeting57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/heart25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input1-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input10-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input2-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/input8-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input8-dups.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/input8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/java60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/jerry47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/sedgewick60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/snake101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/snake13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/temp/wayne98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PercolationFromFixturesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Percolation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Percolation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/PercolationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/PercolationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +44,7 @@
   <component name="CheckStyle-IDEA-workspace">
     <option name="configuration">
       <map>
-        <entry key="last-active-plugin-version" value="5.18.6" />
+        <entry key="last-active-plugin-version" value="5.23.0" />
       </map>
     </option>
   </component>
@@ -29,11 +53,8 @@
       <file leaf-file-name="Percolation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Percolation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-173">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1636">
+              <caret line="98" column="47" selection-start-line="98" selection-start-column="47" selection-end-line="98" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -41,8 +62,8 @@
       <file leaf-file-name="PercolationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/PercolationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            <state relative-caret-position="442">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,37 +74,11 @@
       <file leaf-file-name="PercolationStats.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PercolationStats.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+            <state relative-caret-position="219">
+              <caret line="64" column="91" selection-start-line="64" selection-start-column="91" selection-end-line="64" selection-end-column="91" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-                <element signature="e#876#877#0" expanded="true" />
-                <element signature="e#1064#1065#0" expanded="true" />
-                <element signature="e#1109#1110#0" expanded="true" />
-                <element signature="e#1222#1223#0" expanded="true" />
-                <element signature="e#1250#1251#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#1506#1507#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StdStats.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdStats.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1103">
-              <caret line="346" column="25" selection-start-line="346" selection-start-column="25" selection-end-line="346" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StdRandom.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="126" column="22" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -101,6 +96,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>level</find>
+      <find>Stream</find>
+      <find>openSites</find>
+      <find>System.</find>
+      <find>system</find>
+      <find>gridUF</find>
+      <find>4</find>
+      <find>parseInt</find>
+      <find>mean</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -129,7 +132,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,7 +144,13 @@
             <path>
               <item name="Percolation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Percolation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Percolation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Percolation" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="fixtures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Percolation" type="b2602c69:ProjectViewProjectNode" />
@@ -150,29 +160,35 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.44444445" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/fixtures" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/temp" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/resources/fixtures" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -224,6 +240,23 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PercolationTest" />
       <option name="METHOD_NAME" value="open" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PercolationTest.percolates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Percolation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PercolationTest" />
+      <option name="METHOD_NAME" value="percolates" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -291,10 +324,12 @@
       <item itemvalue="JUnit.PercolationTest" />
       <item itemvalue="JUnit.PercolationTest.open" />
       <item itemvalue="Application.PercolationStats" />
+      <item itemvalue="JUnit.PercolationTest.percolates" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.PercolationStats" />
+        <item itemvalue="JUnit.PercolationTest.percolates" />
         <item itemvalue="JUnit.PercolationTest.open" />
         <item itemvalue="JUnit.PercolationTest" />
       </list>
@@ -343,38 +378,46 @@
       <option name="presentableId" value="Default" />
       <updated>1538997762482</updated>
     </task>
+    <task id="LOCAL-00001" summary="Percolation stats">
+      <created>1539277000762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539277000762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PercolationTest_open - 2018.10.11 at 20h 10m 38s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.14 at 02h 03m 48s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 20h 13m 25s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.14 at 02h 05m 15s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 20h 13m 51s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.14 at 02h 05m 42s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 20h 40m 02s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.14 at 02h 19m 20s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 20h 40m 13s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.14 at 02h 20m 05s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 21h 46m 00s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.14 at 02h 20m 23s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 22h 10m 32s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.14 at 02h 21m 02s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 22h 13m 14s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.14 at 02h 21m 17s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 22h 17m 46s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.16 at 16h 47m 17s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PercolationTest_open - 2018.10.11 at 22h 18m 02s.xml">
-      <configuration name="PercolationTest.open" configurationId="JUnit" />
+    <history-entry file="PercolationTest_percolates - 2018.10.16 at 16h 47m 40s.xml">
+      <configuration name="PercolationTest.percolates" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -382,7 +425,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" weight="0.32959327" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="0" />
       <window_info id="Capture Tool" order="6" />
@@ -400,10 +443,10 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.32959327" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32959327" />
-      <window_info anchor="bottom" id="CheckStyle" order="4" />
+      <window_info anchor="bottom" id="CheckStyle" order="4" weight="0.32959327" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32959327" />
       <window_info anchor="bottom" id="Run with VisualVM" order="6" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="4" weight="0.26037195" />
       <window_info anchor="bottom" id="SonarLint" order="5" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -416,11 +459,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="9" weight="0.32959327" />
       <window_info id="Designer" order="0" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="SBT Console" order="0" />
-      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.32959327" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Commander" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
@@ -428,49 +471,65 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32959327" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="CheckStyle" order="4" />
+      <window_info anchor="bottom" id="CheckStyle" order="4" weight="0.32959327" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.26037195" />
       <window_info anchor="bottom" id="Run with VisualVM" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32959327" />
       <window_info anchor="right" id="Maven Projects" order="0" />
       <window_info anchor="bottom" id="Find" order="11" />
       <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="17" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.32959327" />
       <window_info anchor="bottom" id="Message" order="10" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="8" />
       <window_info anchor="bottom" id="TODO" order="16" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="13" weight="0.39944133" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.39831698" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Percolation stats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Percolation stats" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PercolationStats.java</url>
-          <line>32</line>
+          <line>41</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Percolation.java</url>
-          <line>61</line>
+          <line>25</line>
           <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Percolation.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PercolationTest.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="27" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -483,6 +542,87 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PercolationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PercolationStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PercolationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PercolationStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/PercolationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PercolationStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -497,9 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="69" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -546,13 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="126" column="22" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdStats.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1103">
@@ -560,10 +690,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/PercolationFromFixturesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="126" column="22" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/PercolationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        <state relative-caret-position="442">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -572,28 +723,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Percolation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1636">
+          <caret line="98" column="47" selection-start-line="98" selection-start-column="47" selection-end-line="98" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PercolationStats.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        <state relative-caret-position="219">
+          <caret line="64" column="91" selection-start-line="64" selection-start-column="91" selection-end-line="64" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#1064#1065#0" expanded="true" />
-            <element signature="e#1109#1110#0" expanded="true" />
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1506#1507#0" expanded="true" />
           </folding>
         </state>
       </provider>
